@@ -1,0 +1,8 @@
+.msgerr {
+	padding: 11px 0 4px 34px;
+	text-align: left;
+	COLOR: #ff0000; 
+	background-image: url("../images/icoerr.gif");
+	background-position: left bottom;
+	background-repeat: no-repeat;
+}
